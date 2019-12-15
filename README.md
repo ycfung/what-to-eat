@@ -1,8 +1,8 @@
 # what-to-eat
 
-A flutter app to test. Check the release for Android and Web.
+A flutter app to test. Check out the [release](https://github.com/ycfung/what-to-eat/releases) for Android and Web.
 
-Web demo: [Demo](http://randomfood.tk/)
+Online web demo: [Demo](http://randomfood.tk/)
 
 
 

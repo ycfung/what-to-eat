@@ -46,7 +46,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void pressButton(){
     setState(() {
-      _bLoC.randomGreen(context);
+      _bLoC.randomMenu(context);
     });
   }
 

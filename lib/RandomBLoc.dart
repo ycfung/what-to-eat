@@ -13,7 +13,7 @@ class RandomBLoC {
 
   Stream<String> get stream => _Controller.stream;
 
-  randomGreen(BuildContext context) async {
+  randomMenu(BuildContext context) async {
     var metadata = [
       "黄焖鸡",
       "麻辣香锅",
